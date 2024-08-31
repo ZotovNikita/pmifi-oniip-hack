@@ -1,0 +1,7 @@
+librosa
+numpy
+scikit-learn
+pandas
+pydub
+noisereduce
+seaborn
