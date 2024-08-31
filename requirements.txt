@@ -5,3 +5,5 @@ pandas
 pydub
 noisereduce
 seaborn
+tensorflow
+tqdm
